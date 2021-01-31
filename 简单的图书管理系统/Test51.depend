@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609323865 source:c:\users\86151\desktop\c语言常用编程\test51\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611191632 source:c:\users\86151\desktop\c语言常用编程\简单的图书管理系统\main.c
+	<stdio.h>
+	<stdlib.h>
+
